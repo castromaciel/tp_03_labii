@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  background-color: bisque;
+  width: 100%;
+  padding: 1rem;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+body {
+  height: 100vh;
+  max-width: 24rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 24rem;
+  gap: 1rem;
+}
+
+footer {
+  text-align: center;
+  width: 24rem;
+  background-color: #080707e6;
+  color: white;
+}

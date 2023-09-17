@@ -1,0 +1,34 @@
+h1 {
+  margin-bottom: 0;
+}
+
+body {
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+tbody {
+  border: 1px solid black;
+}
+
+td {
+  height: 74px;
+  width: 74px;
+  padding: 0;
+  border: 1px solid black;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  background-color: #080707e6;
+  color: white;
+}
